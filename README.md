@@ -1,4 +1,7 @@
 # text_representation_and_sequence_classification
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19iLj3J8BTaFPyVvD-MTwZaa_PORhPPu0?usp=sharing)
+
 natural languange processing app that classifies text and sequence
 
 Kelompok : 2
