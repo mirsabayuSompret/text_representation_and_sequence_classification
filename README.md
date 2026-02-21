@@ -6,3 +6,12 @@ Anggota :
 - Dzaki Nafis
 - Ahmad Adilla Umam
 - Mirsa Bayu Prasetyo
+
+
+
+# how to create phyton development environment and install requirement to start development
+
+- py -m venv .venv
+- .\.venv\Scripts\Activate.ps1 (activating venv)
+- py -m pip install --upgrade pip
+- py -m pip install -r requirement.txt
