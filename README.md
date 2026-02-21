@@ -6,7 +6,7 @@ natural languange processing app that classifies text and sequence
 
 Kelompok : 2
 Anggota : 
-- Dzaki Nafis
+- Dzaky Nafis Alfarizi
 - Ahmad Adilla Umam
 - Mirsa Bayu Prasetyo
 
