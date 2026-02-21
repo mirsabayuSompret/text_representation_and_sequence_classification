@@ -19,4 +19,5 @@ scipy==1.17.0
 six==1.17.0
 threadpoolctl==3.6.0
 tqdm==4.67.3
+tensorflow==2.15.0
 tzdata==2025.3
